@@ -8,7 +8,7 @@
   "runtime": "node",
   "license": "MIT",
   "logo": "https://raw.githubusercontent.com/Apex-Byte-Technologies/fictura-mcp/main/assets/fictura-icon-512.png",
-  "author": "Apex Byte Technologies",
+  "author": "Fictura",
   "env": {},
   "remotes": [
     {
